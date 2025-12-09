@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/kevinorellana01/preparing-ad-inf-azure)
+  - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/alexis049-cyber/Active-Directory-Prep)
   - [Active Directory: Deploying Active Directory](https://github.com/kevinorellana01/deploying-ad)
   - [Active Directory: Managing Accounts and Use Cases/Examples](https://github.com/kevinorellana01/ad-practice)
 - <b>Microsoft Azure</b>

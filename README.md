@@ -9,7 +9,7 @@
 - <b>Active Directory</b>
   - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/alexis049-cyber/Active-Directory-Prep)
   - [Active Directory: Deploying Active Directory](https://github.com/alexis049-cyber/Active-Directory-Deployment)
-  - [Active Directory: Managing Accounts and Use Cases/Examples](https://github.com/kevinorellana01/ad-practice)
+  - [Active Directory: Manage Accounts and Users](https://github.com/alexis049-cyber/Active-Directory-Manage-Accounts-and-Users)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)

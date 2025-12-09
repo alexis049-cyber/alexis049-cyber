@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/alexis049-cyber/osTicket-Prerequisites)
   - [osTicket: Post-Installation Configuration](https://github.com/alexis049-cyber/osTicket-Post-Installation)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Scenarios](https://github.com/alexis049-cyber/osTicket-Lifecycle)
 - <b>Active Directory</b>
   - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/alexis049-cyber/Active-Directory-Prep)
   - [Active Directory: Deploying Active Directory](https://github.com/alexis049-cyber/Active-Directory-Deployment)

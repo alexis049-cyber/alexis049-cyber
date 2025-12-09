@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Active Directory: Preparing AD Infrastructure in Azure](https://github.com/alexis049-cyber/Active-Directory-Prep)
-  - [Active Directory: Deploying Active Directory]([https://github.com/kevinorellana01/deploying-ad](https://github.com/alexis049-cyber/Active-Directory-Deployment))
+  - [Active Directory: Deploying Active Directory]([https://github.com/kevinorellana01/deploying-ad](https://github.com/alexis049-cyber/Active-Directory-Deployment)
   - [Active Directory: Managing Accounts and Use Cases/Examples](https://github.com/kevinorellana01/ad-practice)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)

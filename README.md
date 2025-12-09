@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexis, these are my <a href="(https://www.linkedin.com/in/alexis-mendez-817454155/)">IT projects</a>☺</h1>
+<h1>Hi, I'm Alexis, these are my <a href="https://www.linkedin.com/in/alexis-mendez-817454155/">IT projects</a>☺</h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 

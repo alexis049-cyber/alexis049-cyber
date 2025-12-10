@@ -13,8 +13,14 @@
 - <b>Microsoft Azure</b>
   - [Azure:  Setting up (Resource Groups, Virtual Machines, Virtual Networks)](https://github.com/alexis049-cyber/Azure-Setup)
   - [Azure:  Network Security Groups and Inspecting Network Protocols](https://github.com/alexis049-cyber/Azure-Network)
+ 
+<h2>🔜 Coming Soon:</h2>
 
-<h2>🤳S0C1AL:</h2>
+- **CompTIA Security+**
+- **CCNA**
+- **AZ-900**
+
+<h2>🤳 S0C1AL:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 

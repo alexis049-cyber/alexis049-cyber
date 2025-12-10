@@ -12,7 +12,7 @@
   - [Active Directory:  Manage Accounts and Users](https://github.com/alexis049-cyber/Active-Directory-Manage-Accounts-and-Users)
 - <b>Microsoft Azure</b>
   - [Azure:  Setting up (Resource Groups, Virtual Machines, Virtual Networks)](https://github.com/alexis049-cyber/Azure-Setup)
-  - [Azure:  Network Security Groups and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Azure:  Network Security Groups and Inspecting Network Protocols](https://github.com/alexis049-cyber/Azure-Network)
 
 <h2>🤳S0C1AL:</h2>
 
